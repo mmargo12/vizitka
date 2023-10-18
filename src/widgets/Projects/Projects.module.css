@@ -1,0 +1,31 @@
+.project {
+  width: 460px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #fdc1d8;
+  border-radius: 20px;
+}
+
+.projects {
+  display: flex;
+  flex-direction: row;
+}
+
+.project img {
+  width: 400px;
+  border-radius: 20px;
+  margin: auto;
+}
+
+.project h1 {
+  margin: 3px;
+  font-size: 50px;
+}
+
+.project h3 {
+  margin: 3px;
+  font-size: 30px;
+}

@@ -1,0 +1,12 @@
+.contacts h1 {
+  margin: 10px 0;
+}
+
+.contactsList {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding-left: 20px;
+  font-size: 18px;
+  gap: 10px;
+}
